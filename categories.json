@@ -1,0 +1,26 @@
+{
+    "Uncategorized": [], 
+    "Shopping": [
+        "NOON.COM", 
+        "LULU HYPERMARKET", 
+        "AMAZON AE", 
+        "ZOMATO AE", 
+        "SPINNEYS AE"
+    ], 
+    "Travel": [
+        "UBER AE",
+        "ETIHAD AIRWAYS",
+        "HILTON DUBAI",
+        "BOOKING.COM"
+    ], 
+    "Insurance": [
+        "EMIRATES INSURANCE"
+    ], 
+    "Bank Fee": [
+        "ADCB BANK FEE"
+    ], 
+    "Subscriptions": [
+        "APPLE.COM BILL", 
+        "NETFLIX.COM"
+    ]
+}
